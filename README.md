@@ -26,11 +26,11 @@
 
 ![Снимок экрана (693)](https://github.com/user-attachments/assets/160451be-1d21-4a24-81ec-9e1bfdb5ca50)
 
-Ссылка на репозиторий:                  https://github.com/Dmitriy-py/my-first-git-repo
+Ссылка на репозиторий:     https://github.com/Dmitriy-py/my-first-git-repo
 
-Ссылка на коммиты:    
+Ссылка на коммиты:         https://github.com/Dmitriy-py/my-first-git-repo/commits/main/
 
-Ссылка на коммит:     https://github.com/Dmitriy-py/my-first-git-repo/commit/c902a3adee7b0a7fce6a812e52b6734f160ff0bc
+Ссылка на коммит:          https://github.com/Dmitriy-py/my-first-git-repo/commit/c902a3adee7b0a7fce6a812e52b6734f160ff0bc
 
 
 
