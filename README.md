@@ -73,4 +73,4 @@
 
 ![Снимок экрана (701)](https://github.com/user-attachments/assets/e4f5fd53-23f5-49a3-8cbc-6b7134a31a8b)
 
-
+Ссылка на граф:    https://github.com/Dmitriy-py/my-first-git-repo/network
