@@ -69,6 +69,8 @@
 Ваш граф комитов должен выглядеть аналогично скриншоту:
 
 
+# Ответ:
+
 ![Снимок экрана (702)](https://github.com/user-attachments/assets/7ae051f7-6b48-4916-b2d2-3e3404cdc36b)
 
 ![Снимок экрана (701)](https://github.com/user-attachments/assets/e4f5fd53-23f5-49a3-8cbc-6b7134a31a8b)
