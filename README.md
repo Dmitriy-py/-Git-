@@ -30,7 +30,7 @@
 
 Ссылка на коммиты:         https://github.com/Dmitriy-py/my-first-git-repo/commits/main/
 
-Ссылка на коммит:          https://github.com/Dmitriy-py/my-first-git-repo/commit/c902a3adee7b0a7fce6a812e52b6734f160ff0bc
+Ссылка на коммит:          https://github.com/Dmitriy-py/my-first-git-repo/commit/4d9edb93f0e5ccc29d1893338c8d866154f95857
 
 
 
